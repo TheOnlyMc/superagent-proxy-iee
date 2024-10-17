@@ -8,6 +8,8 @@ proxy of some kind.
 
 small adjustment for iee
 
+Bugs will not be maintained as this is a very special version for only one usecase
+
 It is backed by the [`proxy-agent`][proxy-agent] module, so see
 [its README for more details][proxy-agent-readme].
 

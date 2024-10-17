@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/superagent-proxy.git"
+    "url": "git://github.com/theonlymc/superagent-proxy-iee.git"
   },
   "keywords": [
     "superagent",
@@ -21,7 +21,7 @@
     "socks"
   ],
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
-  "maintainers": [
+  "contributor": [
     {
       "name": "Erik Jessen",
       "email": "meine@e-jessen.de"
@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TooTallNate/superagent-proxy/issues"
+    "url": "https://github.com/theonlymc/superagent-proxy-iee/issues"
   },
   "dependencies": {
     "debug": "^4.3.2",
