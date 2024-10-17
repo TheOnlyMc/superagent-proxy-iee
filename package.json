@@ -1,7 +1,7 @@
 {
-  "name": "superagent-proxy",
-  "version": "3.0.0",
-  "description": "`Request#proxy(uri)` superagent extension",
+  "name": "superagent-proxy-iee",
+  "version": "1.0.0",
+  "description": "A modified version of superagent-proxy with additional fixes.",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
@@ -21,6 +21,12 @@
     "socks"
   ],
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "maintainers": [
+    {
+      "name": "Erik Jessen",
+      "email": "meine@e-jessen.de"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TooTallNate/superagent-proxy/issues"
