@@ -11,7 +11,7 @@ var request = require('superagent');
 // extend with .proxy()
 require('../')(request);
 
-describe('superagent-proxy', function () {
+describe('superagent-proxy-iee', function () {
 
   this.slow(5000);
   this.timeout(10000);

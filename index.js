@@ -4,7 +4,7 @@
  */
 
 var {ProxyAgent} = require('proxy-agent');
-var debug = require('debug')('superagent-proxy');
+var debug = require('debug')('superagent-proxy-iee');
 
 /**
  * Module exports.
@@ -17,7 +17,7 @@ module.exports = setup;
  *
  * ``` js
  * var request = require('superagent');
- * require('superagent-proxy')(request);
+ * require('superagent-proxy-iee')(request);
  *
  * request
  *   .get(uri)
@@ -30,7 +30,7 @@ module.exports = setup;
  *
  * ``` js
  * var request = require('superagent');
- * var proxy = require('superagent-proxy');
+ * var proxy = require('superagent-proxy-iee');
  *
  * proxy(request.get(uri), uri).end(fn);
  * ```

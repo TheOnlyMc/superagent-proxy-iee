@@ -1,3 +1,9 @@
+1.0.0 / 2024-10-17
+==================
+  * Forked from Version 3.0.0 from superagent-proxy
+  * Created own Npm-packages
+  * added very specific code changes + vulnerability fixes
+
 2.0.0 / 2018-07-11
 ==================
   * Upgrade "proxy-agent" to remove deprecation warning and enable socks v2

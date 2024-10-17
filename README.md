@@ -31,7 +31,7 @@ Example
 var request = require('superagent');
 
 // extend with Request#proxy()
-require('superagent-proxy')(request);
+require('superagent-proxy-iee')(request);
 
 // HTTP, HTTPS, or SOCKS proxy to use
 var proxy = process.env.http_proxy || 'http://168.63.43.102:3128';
