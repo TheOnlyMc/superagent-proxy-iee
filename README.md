@@ -1,10 +1,12 @@
-superagent-proxy
+superagent-proxy-iee
 ================
-### `Request#proxy(uri)` superagent extension
+### `Request#proxy(uri)` superagent extension for iee
 
 This module extends [`superagent`][superagent]'s `Request` class with
 a `.proxy(uri)` function. This allows you to proxy the HTTP request through a
 proxy of some kind.
+
+small adjustment for iee
 
 It is backed by the [`proxy-agent`][proxy-agent] module, so see
 [its README for more details][proxy-agent-readme].
@@ -16,7 +18,7 @@ Installation
 Install with `npm`:
 
 ``` bash
-$ npm install superagent-proxy
+$ npm install superagent-proxy-iee
 ```
 
 
